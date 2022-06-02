@@ -1,1 +1,1 @@
-print('SOL')
+print('SOL MASTER')
